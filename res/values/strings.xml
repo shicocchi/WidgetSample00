@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">WidgetSample00</string>
+	<string name="hello">Hello World!!</string>
+	<string name="save_btn_text">Save</string>
+		
+</resources>
