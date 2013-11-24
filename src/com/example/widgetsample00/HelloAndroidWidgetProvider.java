@@ -121,7 +121,7 @@ public class HelloAndroidWidgetProvider extends AppWidgetProvider {
 	    void setTextView(Context context, String msg_st) {
 	    	RemoteViews remoteViews;
 	    	remoteViews = new RemoteViews(context.getPackageName(), R.layout.main);
-	 
+	    	
 //	    	remoteViews.setTextViewText(R.id.text_tv, msg_st);
 	 
 	    	ComponentName thisWidget = new ComponentName(context, HelloAndroidWidgetProvider.class);
