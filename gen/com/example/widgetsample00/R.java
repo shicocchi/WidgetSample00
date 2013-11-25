@@ -15,9 +15,11 @@ public final class R {
     }
     public static final class id {
         public static final int main_ll=0x7f070000;
-        public static final int save_btn=0x7f070003;
+        public static final int mobileRxBytes=0x7f070002;
+        public static final int mobileTxBytes=0x7f070003;
         public static final int textView=0x7f070001;
-        public static final int text_edit=0x7f070002;
+        public static final int totalRxBytes=0x7f070004;
+        public static final int totalTxBytes=0x7f070005;
     }
     public static final class layout {
         public static final int main=0x7f030000;
