@@ -14,9 +14,12 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
+        public static final int image=0x7f070007;
+        public static final int list=0x7f070006;
         public static final int main_ll=0x7f070000;
         public static final int mobileRxBytes=0x7f070002;
         public static final int mobileTxBytes=0x7f070003;
+        public static final int text=0x7f070008;
         public static final int textView=0x7f070001;
         public static final int totalRxBytes=0x7f070004;
         public static final int totalTxBytes=0x7f070005;
